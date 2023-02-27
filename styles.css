@@ -1,0 +1,7 @@
+a:hover {
+    color: darksalmon;
+}
+
+.hello_pic:active {
+    height: revert;
+}
