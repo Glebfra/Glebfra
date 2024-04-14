@@ -24,10 +24,9 @@
     <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
     <img src="https://img.shields.io/badge/jinja-black.svg?style=for-the-badge&logo=jinja&logoColor=white">
 
-<p></p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Glebfra">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glebfra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact&theme=dracula">
 
 </div>
