@@ -26,7 +26,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glebfra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<p></p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact&theme=dracula">
-
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
