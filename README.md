@@ -42,10 +42,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Glebfra&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact&theme=dracula">
 </h2>
-
-<h2>
-    LeetCode
-    <br><br>
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Glebfra&theme=dark">
-</h2>
 </div>
