@@ -35,11 +35,4 @@
     <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white">
     <img src="https://img.shields.io/badge/jinja-black.svg?style=for-the-badge&logo=jinja&logoColor=white">
 </h2>
-
-<h2>
-    Stats
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Glebfra&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glebfra&layout=compact&theme=dracula">
-</h2>
 </div>
