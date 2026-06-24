@@ -1,5 +1,13 @@
-a {
-    .stats {
-        outline: none;
-    }
+.stats {
+    display: flex;
+    flex-direction: row;
+    gap: 1vh;
+    outline: none;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.stats img {
+    height: 17vh;
 }
