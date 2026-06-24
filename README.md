@@ -1,7 +1,1 @@
-<div align="center">
-<h1 align='center'>
-    <a> Hi there I'm </a>
-    <a href="https://github.com/Glebfra">Gleb</a>
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Click me">
-</h1>
-</div>
+[![Glebfra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glebfra&theme=github)](https://github.com/Glebfra/Glebfra.git)
