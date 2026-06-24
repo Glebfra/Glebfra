@@ -1,4 +1,18 @@
-<link rel="stylesheet" type="text/css" href="./styles.css"/>
+<style>
+  .stats {
+    display: flex;
+    flex-direction: row;
+    gap: 1vh;
+    outline: none;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .stats img {
+      height: 17vh;
+  }
+</style>
 
 [![Glebfra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Glebfra&theme=github)](https://github.com/Glebfra/Glebfra.git)
 
